@@ -1,5 +1,5 @@
 
-package com.byteexperts.appsupport.activity;
+package com.test.support.activity;
 
 public interface BaseFragmentInterface {
     public boolean isInitialised();
